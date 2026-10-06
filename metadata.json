@@ -1,0 +1,6 @@
+{
+  "name": "CyberSources",
+  "description": "A curated discovery platform for cybersecurity tools, resources, stacks, and practitioner workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
